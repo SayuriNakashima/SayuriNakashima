@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Sayuri Nakashima Do Carmo, tenho 18 anos e sou de Santos. Formada em Técnico de Informática pela ETEC Aristóteles Ferreira. Atualmente, estou cursando Sistemas de Informação na Universidade Santa Cecília. Sou apaixonada por tecnologia e compartilho meu conhecimento e projetos através do meu LinkedIn "[Sayuri Nakashima Do Carmo](https://www.linkedin.com/in/sayuri-nakashima/)"
+Me chamo Sayuri Nakashima Do Carmo, sou formada como Técnica em Informática pela ETEC Aristóteles Ferreira. Atualmente, estou cursando Sistemas de Informação na Universidade Santa Cecília. Sou apaixonada por tecnologia e compartilho meu conhecimento e projetos através do meu LinkedIn "[Sayuri Nakashima Do Carmo](https://www.linkedin.com/in/sayuri-nakashima/)"
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/sayuri-nakashima/" target="_blank">
