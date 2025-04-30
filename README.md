@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/SayuriNakashima/SayuriNakashima/blob/main/Blue%20And%20Purple%20Professional%20Technology%20LinkedIn%20Banner%20(1).png" alt="Banner de Sayuri Nakashima" />
-</p>
-
 ## 👩🏻‍💻 Sayuri Nakashima
 
 **`Desenvolvedora FullStack`**
