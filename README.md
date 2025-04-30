@@ -13,7 +13,7 @@ Me chamo Sayuri Nakashima Do Carmo, sou formada como Técnica em Informática pe
     />
   </a>
 
- <a href="https://github.com/sasa76543?tab=followers" target="_blank">
+ <a href="https://github.com/SayuriNakashima" target="_blank">
   <img 
     alt="Seguidores" 
     title="Me siga no GitHub" 
