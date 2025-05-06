@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Sayuri Nakashima
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Front-End`**
 
 Me chamo Sayuri Nakashima Do Carmo, sou formada como Técnica em Informática pela ETEC Aristóteles Ferreira e atualmente curso Sistemas de Informação na Universidade Santa Cecília. Sou apaixonada por tecnologia e compartilho meus conhecimentos e projetos através do meu LinkedIn "[Sayuri Nakashima Do Carmo](https://www.linkedin.com/in/sayuri-nakashima/)"
 
