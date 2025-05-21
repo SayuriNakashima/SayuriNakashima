@@ -13,21 +13,11 @@ Me chamo Sayuri Nakashima Do Carmo, sou formada como Técnica em Informática pe
     />
   </a>
 
-<!-- Badge de seguidores (você já tem) -->
 <a href="https://github.com/SayuriNakashima" target="_blank">
   <img
     alt="Seguidores"
     title="Me siga no GitHub"
     src="https://custom-icon-badges.demolab.com/github/followers/SayuriNakashima?color=gray&labelColor=2f2f2f&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-  />
-</a>
-
-<!-- Badge de estrelas nos repositórios -->
-<a href="https://github.com/SayuriNakashima" target="_blank">
-  <img
-    alt="Estrelas"
-    title="Me dê uma estrela"
-    src="https://img.shields.io/github/stars/SayuriNakashima?style=for-the-badge&label=Estrelas&logo=github&color=gray&labelColor=2f2f2f"
   />
 </a>
 
