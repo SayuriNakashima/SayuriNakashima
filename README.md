@@ -75,8 +75,8 @@ Me chamo Sayuri Nakashima Do Carmo, sou formada como Técnica em Informática pe
 ### 📊 Estatísticas
 
 <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayuriNakashima&layout=compact&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SayuriNakashima&theme=tokyonight" />
+    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayuriNakashima&layout=compact&theme=tokyonight" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=SayuriNakashima&theme=tokyonight" />
 </p>
 
 
