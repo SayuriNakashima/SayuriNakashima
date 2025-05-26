@@ -80,7 +80,7 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
     <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayuriNakashima&layout=compact&theme=tokyonight" />
