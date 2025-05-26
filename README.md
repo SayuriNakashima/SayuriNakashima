@@ -94,9 +94,16 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
 </a>
 <a href="" target="_blank">
   <img
-    alt="HTML"
+    alt="HTML5"
     title="HTML"
     src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+  />
+</a>
+<a href="" target="_blank">
+  <img
+    alt="CSS"
+    title="CSS3"
+    src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"
   />
 </a>
 <a href="" target="_blank">
@@ -106,13 +113,7 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
     src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
   />
 </a>
-<a href="" target="_blank">
-  <img
-    alt="CSS"
-    title="CSS"
-    src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-  />
-</a>
+
 <br/>
 <br/>
 
