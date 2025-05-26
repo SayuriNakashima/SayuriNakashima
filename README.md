@@ -78,45 +78,41 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
 />
 
 ### Tools:
-
-<img 
-    align="left" 
-    alt="Visual Studio Code"
-    title="Visual Studio Code"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Visual Studio"
-    title="Visual Studio"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git"
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="GitHub"
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-
-
-
+<a href="https://github.com/SayuriNakashima" target="_blank">
+  <img
+    alt="C#"
+    title="C#"
+    src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white"
+  />
+</a>
+<a href="https://github.com/SayuriNakashima" target="_blank">
+  <img
+    alt="MySQL"
+    title="MySQL"
+    src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"
+  />
+</a>
+<a href="https://github.com/SayuriNakashima" target="_blank">
+  <img
+    alt="HTML"
+    title="HTML"
+    src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white"
+  />
+</a>
+<a href="https://github.com/SayuriNakashima" target="_blank">
+  <img
+    alt="JavaScript"
+    title="JavaScript"
+    src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"
+  />
+</a>
+<a href="https://github.com/SayuriNakashima" target="_blank">
+  <img
+    alt="CSS"
+    title="CSS"
+    src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white"
+  />
+</a>
 <br/>
 <br/>
 
