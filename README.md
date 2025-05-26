@@ -53,6 +53,13 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
 </a>
 <a href="" target="_blank">
   <img
+    alt="C#"
+    title="C#"
+    src="https://img.shields.io/badge/C%23-800080?style=for-the-badge&logo=csharp&logoColor=white"
+  />
+</a>
+<a href="" target="_blank">
+  <img
     alt="MySQL"
     title="MySQL"
     src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
