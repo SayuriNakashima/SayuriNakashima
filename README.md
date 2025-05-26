@@ -44,39 +44,6 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
 
 ## 🤖 My Skills
 
-### Tools:
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img
-    alt="Visual Studio Code"
-    title="Visual Studio Code"
-    src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"
-  />
-</a>
-
-<a href="https://visualstudio.microsoft.com/" target="_blank">
-  <img
-    alt="Visual Studio"
-    title="Visual Studio"
-    src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"
-  />
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img
-    alt="Git"
-    title="Git"
-    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-  />
-</a>
-
-<a href="https://github.com/" target="_blank">
-  <img
-    alt="GitHub"
-    title="GitHub"
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-  />
-</a>
-<br/> <br/>
 <a href="https://github.com/SayuriNakashima" target="_blank">
   <img
     alt="C#"
@@ -113,8 +80,40 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
   />
 </a>
 
-<br/>
-<br/>
+
+### Tools:
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img
+    alt="Visual Studio Code"
+    title="Visual Studio Code"
+    src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"
+  />
+</a>
+
+<a href="https://visualstudio.microsoft.com/" target="_blank">
+  <img
+    alt="Visual Studio"
+    title="Visual Studio"
+    src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"
+  />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img
+    alt="Git"
+    title="Git"
+    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+  />
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img
+    alt="GitHub"
+    title="GitHub"
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
+<br/> <br/>
 
 ### 📊 Statistics
 
