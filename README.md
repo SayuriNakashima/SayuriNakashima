@@ -76,7 +76,7 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-
+<br/> <br/>
 ### Tools:
 <a href="https://github.com/SayuriNakashima" target="_blank">
   <img
