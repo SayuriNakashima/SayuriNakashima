@@ -78,11 +78,11 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
 />
 
 ### Tools:
-<a href="" target="_blank">
+<a href="https://github.com/SayuriNakashima" target="_blank">
   <img
     alt="C#"
     title="C#"
-    src="https://img.shields.io/badge/C%23-0078D4?style=for-the-badge&logo=csharp&logoColor=white"
+    src="https://img.shields.io/badge/C%23-800080?style=for-the-badge&logo=csharp&logoColor=white"
   />
 </a>
 <a href="" target="_blank">
