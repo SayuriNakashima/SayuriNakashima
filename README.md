@@ -94,8 +94,8 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
 </a>
 <a href="" target="_blank">
   <img
-    alt="HTML5"
-    title="HTML"
+    alt="HTML"
+    title="HTML5"
     src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"
   />
 </a>
