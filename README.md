@@ -81,7 +81,7 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
   />
 </a>
 
-### Tools:
+###  🛠️ Tools:
 <a href="https://code.visualstudio.com/" target="_blank">
   <img
     alt="Visual Studio Code"
