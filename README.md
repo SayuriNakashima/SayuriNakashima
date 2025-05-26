@@ -76,7 +76,7 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
     src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
   />
 </a>
-
+<br/> <br/>
 <a href="https://github.com/SayuriNakashima" target="_blank">
   <img
     alt="C#"
