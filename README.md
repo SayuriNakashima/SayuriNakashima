@@ -80,7 +80,7 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
   />
 </a>
 
-<p>Tools:<p/>
+###Tools:
 <a href="https://code.visualstudio.com/" target="_blank">
   <img
     alt="Visual Studio Code"
@@ -114,7 +114,7 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
 </a>
 <br/> <br/>
 
-### 📊 Statistics
+## 📊 Statistics
 
 <p>
     <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayuriNakashima&layout=compact&theme=tokyonight" />
