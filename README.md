@@ -42,7 +42,7 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
 
 ---
 
-### 🤖 Languages and Technologies
+## 🤖 My Skills
 
 <img 
     align="left" 
@@ -76,6 +76,46 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+
+### Tools:
+
+<img 
+    align="left" 
+    alt="Visual Studio Code"
+    title="Visual Studio Code"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Visual Studio"
+    title="Visual Studio"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+
 
 <br/>
 <br/>
