@@ -113,6 +113,14 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
     src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
   />
 </a>
+<a href="" target="_blank">
+  <img
+    alt="Figma"
+    title="Figma"
+    src="https://img.shields.io/badge/Figma-03A86B?style=for-the-badge&logo=figma&logoColor=white"
+  />
+</a>
+
 <br/> <br/>
 
 ## 📊 Statistics
