@@ -78,42 +78,35 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
 />
 
 ### Tools:
-<a href="https://github.com/SayuriNakashima" target="_blank">
-  <img
-    alt="Seguidores"
-    title="Me siga no GitHub"
-    src="https://custom-icon-badges.demolab.com/github/followers/SayuriNakashima?color=gray&labelColor=2f2f2f&style=for-the-badge"
-  />
-</a>
-<a href="https://github.com/SayuriNakashima" target="_blank">
+<a href="" target="_blank">
   <img
     alt="C#"
     title="C#"
     src="https://img.shields.io/badge/C%23-0078D4?style=for-the-badge&logo=csharp&logoColor=white"
   />
 </a>
-<a href="https://github.com/SayuriNakashima" target="_blank">
+<a href="" target="_blank">
   <img
     alt="MySQL"
     title="MySQL"
     src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
   />
 </a>
-<a href="https://github.com/SayuriNakashima" target="_blank">
+<a href="" target="_blank">
   <img
     alt="HTML"
     title="HTML"
     src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"
   />
 </a>
-<a href="https://github.com/SayuriNakashima" target="_blank">
+<a href="" target="_blank">
   <img
     alt="JavaScript"
     title="JavaScript"
     src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
   />
 </a>
-<a href="https://github.com/SayuriNakashima" target="_blank">
+<a href="" target="_blank">
   <img
     alt="CSS"
     title="CSS"
