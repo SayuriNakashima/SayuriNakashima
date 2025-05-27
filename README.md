@@ -121,7 +121,7 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
   />
 </a>
 
-<br/> <br/>
+<br/>
 
 ## 📊 Statistics
 
