@@ -34,7 +34,7 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
   <a href="https://www.instagram.com/sayxz._?igsh=OWxkN2EzbWIwNnNo" target="_blank">
     <img 
       alt="Instagram" 
-      title="Instagram" 
+      title="" 
       src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
