@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Hi!!, I'm Sayuri Nakashima.
+# 👩🏻‍💻 Hi!, I'm Sayuri Nakashima.
 
 **PT:**
 <br/>
