@@ -21,6 +21,24 @@ Me chamo Sayuri Nakashima Do Carmo, sou formada como Técnica em Informática pe
     src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
   />
 </a>
+
+<a href="https://www.instagram.com/sayxz._?igsh=OWxkN2EzbWIwNnNo" target="_blank">
+  <img 
+    alt="Instagram" 
+    title="Instagram" 
+    src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=white"
+  />
+</a>
+
+<a href="https://github.com/SayuriNakashima" target="_blank">
+  <img
+    alt="Seguidores do GitHub"
+    title="Me siga no GitHub"
+    src="https://custom-icon-badges.demolab.com/github/followers/SayuriNakashima?color=gray&labelColor=2f2f2f&style=flat&logo=github&label=Seguidores&logoColor=white"
+  />
+</a>
+
+
 ---
 
 ## 🤖 My Skills
