@@ -14,34 +14,13 @@ My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics f
 Me chamo Sayuri Nakashima Do Carmo, sou formada como Técnica em Informática pela ETEC Aristóteles Ferreira e atualmente curso Sistemas de Informação na Universidade Santa Cecília. Sou apaixonada por tecnologia e compartilho meus conhecimentos e projetos através do meu LinkedIn "[Sayuri Nakashima Do Carmo](https://www.linkedin.com/in/sayuri-nakashima/)"
 
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.linkedin.com/in/sayuri-nakashima/" target="_blank">
-    <img 
-      alt="LinkedIn" 
-      title="LinkedIn" 
-      src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-
-<a href="https://github.com/SayuriNakashima" target="_blank">
-  <img
-    alt="Seguidores"
-    title="Me siga no GitHub"
-    src="https://custom-icon-badges.demolab.com/github/followers/SayuriNakashima?color=gray&labelColor=2f2f2f&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+<a href="https://www.linkedin.com/in/sayuri-nakashima/" target="_blank">
+  <img 
+    alt="LinkedIn" 
+    title="LinkedIn" 
+    src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
   />
 </a>
-
-
-
-  <a href="https://www.instagram.com/sayxz._?igsh=OWxkN2EzbWIwNnNo" target="_blank">
-    <img 
-      alt="Instagram" 
-      title="Instagram" 
-      src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-  </a>
-</div>
-
 ---
 
 ## 🤖 My Skills
