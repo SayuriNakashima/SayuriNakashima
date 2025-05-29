@@ -1,16 +1,18 @@
 # 👩🏻‍💻 Hi!, I'm Sayuri Nakashima.
 
-**PT:**
-<br/>
-**`Desenvolvedora Front-End`**
-
-Me chamo Sayuri Nakashima Do Carmo, sou formada como Técnica em Informática pela ETEC Aristóteles Ferreira e atualmente curso Sistemas de Informação na Universidade Santa Cecília. Sou apaixonada por tecnologia e compartilho meus conhecimentos e projetos através do meu LinkedIn "[Sayuri Nakashima Do Carmo](https://www.linkedin.com/in/sayuri-nakashima/)"
 
 **EN:**
 <br/>
 **`Front-End Developer`**
 
 My name is Sayuri Nakashima Do Carmo. I have a technical degree in Informatics from ETEC Aristóteles Ferreira and am currently pursuing a Bachelor's degree in Information Systems at Universidade Santa Cecília. I am passionate about technology and share my knowledge and projects through my LinkedIn "[Sayuri Nakashima Do Carmo](https://www.linkedin.com/in/sayuri-nakashima/)"
+
+**PT:**
+<br/>
+**`Desenvolvedora Front-End`**
+
+Me chamo Sayuri Nakashima Do Carmo, sou formada como Técnica em Informática pela ETEC Aristóteles Ferreira e atualmente curso Sistemas de Informação na Universidade Santa Cecília. Sou apaixonada por tecnologia e compartilho meus conhecimentos e projetos através do meu LinkedIn "[Sayuri Nakashima Do Carmo](https://www.linkedin.com/in/sayuri-nakashima/)"
+
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/sayuri-nakashima/" target="_blank">
