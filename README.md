@@ -46,82 +46,18 @@ Me chamo Sayuri Nakashima Do Carmo, sou formada como Técnica em Informática pe
 
 ## 🤖 My Skills
 
-<a href="" target="_blank">
-  <img
-    alt="C#"
-    title="C#"
-    src="https://img.shields.io/badge/C%23-800080?style=for-the-badge&logo=csharp&logoColor=white"
-  />
-</a>
-<a href="" target="_blank">
-  <img
-    alt="MySQL"
-    title="MySQL"
-    src="https://img.shields.io/badge/MySQL-00618D?style=for-the-badge&logo=mysql&logoColor=white"
-  />
-</a>
 
-<a href="" target="_blank">
-  <img
-    alt="HTML5"
-    title="HTML5"
-    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-  />
-</a>
-<a href="" target="_blank">
-  <img
-    alt="CSS3"
-    title="CSS3"
-    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-  />
-</a>
-<a href="" target="_blank">
-  <img
-    alt="JavaScript"
-    title="JavaScript"
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-  />
-</a>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ###  🛠️ Tools:
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img
-    alt="Visual Studio Code"
-    title="Visual Studio Code"
-    src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"
-  />
-</a>
-
-<a href="https://visualstudio.microsoft.com/" target="_blank">
-  <img
-    alt="Visual Studio"
-    title="Visual Studio"
-    src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"
-  />
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img
-    alt="Git"
-    title="Git"
-    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-  />
-</a>
-
-<a href="https://github.com/" target="_blank">
-  <img
-    alt="GitHub"
-    title="GitHub"
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-  />
-</a>
-<a href="" target="_blank">
-  <img
-    alt="Figma"
-    title="Figma"
-    src="https://img.shields.io/badge/Figma-03A86B?style=for-the-badge&logo=figma&logoColor=white"
-  />
-</a>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 <br/>
 
