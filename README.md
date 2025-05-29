@@ -57,7 +57,7 @@ Me chamo Sayuri Nakashima Do Carmo, sou formada como Técnica em Informática pe
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-00C853?style=flat&logo=figma&logoColor=white)
 
 <br/>
 
