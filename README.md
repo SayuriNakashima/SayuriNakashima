@@ -41,7 +41,7 @@ Me chamo Sayuri Nakashima Do Carmo, sou formada como Técnica em Informática pe
 
 ---
 
-## 🤖 My Skills
+## My Skills
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
